@@ -113,7 +113,7 @@ Principais diretrizes:
 
 ### 🔗 Acessos
 
-🌐 [Acessar meu portfólio](barbosajoaopedro.com)
+🌐 [Acessar meu portfólio](https://barbosajoaopedro.com/)
 
 
 
